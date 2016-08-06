@@ -1,0 +1,25 @@
+_repo: Georgian-Poetry-1916-1917_9546
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Marsh, Edward Howard, Sir
+    birthdate: 1872
+    deathdate: 1953
+    gutenberg_agent_id: '3086'
+    url: http://www.gutenberg.org/2009/agents/3086
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Marsh
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Georgian Poetry 1916-1917
+url: http://www.gutenberg.org/ebooks/9546
